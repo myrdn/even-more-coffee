@@ -1,6 +1,7 @@
 ---
 layout: home
 title: About
+metaDesc: myrdin's website
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
