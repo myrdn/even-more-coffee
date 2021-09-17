@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Contact
-permalink: /generic-pages/contact.html
+permalink: ""
 ---
 Let's have a coffee ! (or whatever you like)
 
