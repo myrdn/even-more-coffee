@@ -1,10 +1,14 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: About
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ''
+socialImage: ""
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+I am Myrdin, I work with [Mathilde](https://mathild.eu) at [clic2000](https://clic2000.fr) in a co-op [(Chrysalide)](https://www.cae29.coop/).
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+I love coffee, hiking and static websites.
+
+I am learning web development by myself and at my own pace. Recently I have become interested in web accessibility.
+
+Here I'll try to share things about my work, what I learn; in english or french. 
