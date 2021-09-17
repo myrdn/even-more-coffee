@@ -8,6 +8,10 @@
     {
       "url": "/pages/contact-1",
       "text": "Contact"
+    },
+    {
+      "text": "RSS",
+      "url": "/feed.xml"
     }
   ]
 }
