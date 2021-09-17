@@ -1,7 +1,7 @@
 {
-  "showThemeCredit": true,
-  "name": "more coffee",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "showThemeCredit": false,
+  "name": "more-coffee",
+  "shortDesc": "Wake up and smell the coffee.",
   "url": "https://more-coffee.net",
   "authorEmail": "myrdin@more-coffee.net",
   "authorHandle": "",
