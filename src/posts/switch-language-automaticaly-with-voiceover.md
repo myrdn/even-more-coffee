@@ -4,6 +4,7 @@ title: Switch language automaticaly with VoiceOver
 date: 2021-11-16T16:29:05.612Z
 tags:
   - a11y
+  - screenreader
 ---
 I started using VoiceOver as my default screen reader on macOS Monterey to test manually website I made. I use english as my default language but as I am french I often deal with french websites. 
 
