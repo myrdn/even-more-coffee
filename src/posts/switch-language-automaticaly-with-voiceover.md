@@ -6,7 +6,7 @@ tags:
   - a11y
   - screenreader
 ---
-I started using VoiceOver as my default screen reader on macOS Monterey to test manually website I make. I use english as my default language but as I am french I often deal with french websites. 
+I started using VoiceOver as my default screen reader on macOS Monterey to test manually websites I make. I use english as my default language but as I am french I often deal with french websites. 
 
 One thing you should do when coding a website is to fill the `lang` attribute on your html elements to let assistive technology know what language it is dealing with. 
 
