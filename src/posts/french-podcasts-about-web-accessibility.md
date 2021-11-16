@@ -14,9 +14,9 @@ You can find an incredible list of podcasts in English on the subject [at this a
 
 So here is a list of podcasts about accessibility, some are old, some not only about web and some have text transcription : 
 
-* [SLD #5 - Marie Guillaumet, consultante en accessibilité numérique chez Access42](https://podcasts-francais.fr/podcast/salut-les-designers/sld-5-marie-guillaumet-consultante-en-accessibilit)
-* [a11yrules - E01 – Entrevue avec Elie Sloïm – 1ère partie](https://a11yrules.com/podcast/e01-entrevue-avec-elie-sloim-1ere-partie/) - *has a transcription*
-* [a11yrules - E02 – Entrevue avec Elie Sloïm – 2e partie](https://a11yrules.com/podcast/e02-entrevue-avec-elie-sloim-2e-partie/) - *has a transcription*
+* [<span lang="fr">SLD #5 - Marie Guillaumet, consultante en accessibilité numérique chez Access42](https://podcasts-francais.fr/podcast/salut-les-designers/sld-5-marie-guillaumet-consultante-en-accessibilit)</span>
+* [a11yrules - E01 – <span lang="fr">Entrevue avec Elie Sloïm – 1ère partie](https://a11yrules.com/podcast/e01-entrevue-avec-elie-sloim-1ere-partie/)</span> - *has a transcription*
+* [a11yrules - E02 –](https://a11yrules.com/podcast/e02-entrevue-avec-elie-sloim-2e-partie/)[](https://a11yrules.com/podcast/e01-entrevue-avec-elie-sloim-1ere-partie/)[ Entrevue avec Elie Sloïm – 2e partie](https://a11yrules.com/podcast/e02-entrevue-avec-elie-sloim-2e-partie/) - *has a transcription*
 * [a11yrules - E03 – Entrevue avec Olivier Nourry – 1ère partie](https://a11yrules.com/podcast/e03-entrevue-avec-olivier-nourry-1ere-partie/) - *has a transcription*
 * [a11yrules - E04 – Entrevue avec Olivier Nourry – 2e partie](https://a11yrules.com/podcast/e04-entrevue-avec-olivier-nourry-2e-partie/) - *has a transcription*
 * [VeryFrenchTrip - Podcast #24 : L’accessibilité numérique](https://veryfrenchtrip.com/podcast/podcast-24-accessibilite-numerique/)
