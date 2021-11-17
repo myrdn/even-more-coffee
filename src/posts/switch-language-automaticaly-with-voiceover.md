@@ -10,7 +10,7 @@ I started using VoiceOver as my default screen reader on macOS Monterey to test 
 
 One thing you should do when coding a website is to fill the `lang` attribute on your html elements to let assistive technology know what language it is dealing with. 
 
-I was expecting that once I added french voice to VoiceOver it would automatically switch to french when I land on a page with `lang=fr` attribute. But it was not so here is the way to setup VoiceOver to automaticaly switch to voices you added with the VoiceOver utility :
+I was expecting that once I added french voice to VoiceOver it would automatically switch to french when I land on a page with `lang="fr"` attribute. But it was not. Here is the way to setup VoiceOver to automaticaly switch to voices you added with the VoiceOver utility :
 
 1. Launch VoiceOver with cmd + F5
 2. Enter the VoiceRotor with VO + cmd + shift + left/right keys
