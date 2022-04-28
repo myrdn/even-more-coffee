@@ -8,24 +8,23 @@ tags:
 Here is a post about which tools I use (mostly) for work.
 
 # OS
-I use to be a GNU/Linux, BSD distro hopper but I realize that I was spending more time on tweaking and hacking my OS than working on my projects. I am now using MacOS and I am happy with it. By leaving the endless distro hopping I was into I can now focus on my work and personal projects.
+I use to be a GNU/Linux, BSD distro hopper but I realize that I was spending more time on tweaking and hacking my OS than working on my projects. I am now using macOS and I am happy with it. By leaving the endless distro hopping I was into I can now focus on my work and personal projects.
 I install and remove programs with [Homebrew](https://brew.sh/).
 
 # Terminal
-I use MacOS default terminal with zsh.
+I use macOS default terminal with zsh.
 I use [Oh My Zsh](https://ohmyz.sh/) to configure my theme and add plugins. My theme is [minimal](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/minimal.zsh-theme) and my plugins are `git` and `macos`. 
 The font of my terminal is beautiful and very readable, it is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 # Text editor
-I type almost everything in [Vim](ttps://www.vim.org). I love it. I am starting to feel comfortable with it and that's pure power and joy. 
+I type almost everything in [Vim](ttps://www.vim.org). I love it. I am starting to feel comfortable with it. I don't have to think what to type anymore and that's pure power and joy. 
 I only added [emmet-vim](https://github.com/mattn/emmet-vim) and [Lightline](https://github.com/itchyny/lightline.vim) as plugins.
- My `.vimrc` is 89 lines and I add stuff to it when I discover useful tips. I use Vim for journaling and I recently did some scripting and learned about templates to automate this process (check [this article](https://danishpraka.sh/2020/02/23/journaling-in-vim.html) if you want to learn more about it).
+ My `.vimrc` is 89 lines and I add stuff to it when I discover useful tips. I use Vim for journaling and I recently did some scripting (it was hard) and learned about templates to automate this process (check [this article](https://danishpraka.sh/2020/02/23/journaling-in-vim.html) if you want to learn more about it).
 Netrw, Vim's builtin file explorer, is my friend and I don't need [NERDTree](https://github.com/preservim/nerdtree). Also, as I want to keep things minimal and because I don't use a lot of plugins, I install it manually without plugins manager. 
 
 # Browser
 My browser is Firefox with these plugins :
 - [uBlock Origin](https://ublockorigin.com/) (must have to survive on internet)
-- [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) (because I don't care about cookies)
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) (help me correcting some accessibility issues)
 - [Pixel Perfect pro](https://addons.mozilla.org/en-US/firefox/addon/pixel-perfect-pro/) (good tool for integration)
 - [Wappalyzer](https://www.wappalyzer.com/) (I like to know with wich technologies sites are built)
@@ -46,6 +45,7 @@ I add tasks to my [Taskwarrior](https://taskwarrior.org/) todo list. It is confi
 - [Signal](https://www.signal.org/) (IM client)
 
 # Fin
+
 
 
 
