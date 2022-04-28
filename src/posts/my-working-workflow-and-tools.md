@@ -18,3 +18,11 @@ I use MacOS default terminal with zsh. I use [Oh My Zsh](https://ohmyz.sh/) to c
 # Text editor
 
 I type almost everything in [Vim](ttps://www.vim.org). I love it, I am starting to feel comfortable with it and that's pure power and joy. I only added [emmet-vim](https://github.com/mattn/emmet-vim) and [Lightline](https://github.com/itchyny/lightline.vim) as plugins. My `.vimrc` is 89 lines and I add stuff to it when I discover useful tips. I use Vim for journaling and I recently did some scripting and learned about templates to automate this process. Netrw, Vim's builtin file explorer is my friend and I don't need [NERDTree](https://github.com/preservim/nerdtree). Also as I want to keep things minimal and because I don't use a lot of plugins I install it manually without plugins manager.
+
+# Browser
+My browser is firefox with these plugins :
+- [uBlock Origin](https://ublockorigin.com/) (must have to survive on internet)
+- [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) (because I don't care about cookies)
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) (help me correcting some accessibility issues)
+- [Pixel Perfect pro](https://addons.mozilla.org/en-US/firefox/addon/pixel-perfect-pro/) (good tool for integration)
+- [Wappalyzer](https://www.wappalyzer.com/) (I like to know with wich technologies sites are built)
