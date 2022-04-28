@@ -6,7 +6,7 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-I am Myrdin, I work with [Mathilde](https://github.com/mthld) at [clic2000](https://clic2000.fr) in a co-op [(Chrysalide)](https://www.cae29.coop/).
+I am Myrdin, I do stuff on internet with [Mathilde](https://github.com/mthld).
 
 I love coffee, hiking, juggling and static websites.
 
