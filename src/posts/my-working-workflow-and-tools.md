@@ -34,12 +34,12 @@ My browser is the software that I switch the most. Firefox power consumption mak
 # Time management, working workflow
 Working from home, I try to avoid distractions while working and I also use [the Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 
-I add tasks to my [Taskwarrior](https://taskwarrior.org/) todo list. It is configured with [Timewarrior](https://timewarrior.net/) to track time I spend on my projects. In addition I use the [Taskwarrior Pomodoro](https://github.com/coddingtonbear/taskwarrior-pomodoro), it is the only program allowed to send me notifications while working or studying (when the pomodoro is ending and that I have to take a break). I am really happy with this Monterey setting that allows you to finely configure which program can send you notifications. With this technique I can focus on my tasks, I only check and answer my emails and text messages during the breaks. Working with this technique is promoted for productivity but in my view it is also a good reminder to take rest, and you know that rest is important.
+I add tasks to my [Taskwarrior](https://taskwarrior.org/) todo list. It is configured with [Timewarrior](https://timewarrior.net/) to track time I spend on my projects. In addition I use the [Taskwarrior Pomodoro](https://github.com/coddingtonbear/taskwarrior-pomodoro), it's the only program allowed to send me notifications while working or studying (when the pomodoro is ending and that I have to take a break). I am really happy with this Monterey setting that allows you to finely configure which program can send you notifications depending on your focus settings. With this technique I can focus on my tasks, I only check and answer my emails and text messages during the breaks. Working with this technique is also in my view a good reminder to take rest, and you know that rest is important.
 
 # Miscellaneous
 - [Squoosh Cli](https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli) (for images compression)
-- [Accessible colors](https://accessible-colors.com/) (to find the closest accessible colors)
-- [Browser Sync](https://browsersync.io/) (don't need to reload page anymore)
+- [Accessible colors](https://accessible-colors.com/) (to find the closest accessible colors combinations)
+- [Browser Sync](https://browsersync.io/) (don't need to reload pages anymore)
 - [NetNewsWire](https://netnewswire.com/) (for my RSS/atom feeds and youtube channels)
 - [Birwarden](https://bitwarden.com/) (password manager)
 - [Signal](https://www.signal.org/) (IM client)
