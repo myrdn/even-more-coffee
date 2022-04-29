@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Software and tools I use
-date: 2022-04-28T23:22:23.496Z
+date: 2022-04-29T15:40:39.821Z
 tags: []
 ---
 Here is a post about which tools I use (mostly) for work.
